@@ -1,0 +1,11 @@
+ID,Name,Age,Salary,Department
+1,Alice,25,50000,HR
+2,Bob,thirty,60000,Finance
+3,Charlie,28,NaN,IT
+4,David,42,75000,Finance
+5,Eva,35,-45000,HR
+6,Frank,29,65000,IT
+7,Grace,28,62000,Finance
+8,Hank,,58000,HR
+9,Ivy,31,68000,Marketing
+10,Grace,28,62000,Finance

@@ -1,0 +1,15 @@
+Record,Age,Income,Buyer,Credit_rating,Buys_laptop
+1,<=30,High,No,Fair,No
+2,<=30,High,No,Excellent,No
+3,31 to 40,High,No,Fair,Yes
+4,>40,Average,No,Fair,Yes
+5,>40,Poor,Yes,Fair,Yes
+6,>40,Poor,Yes,Excellent,No
+7,31 to 40,Poor,Yes,Excellent,Yes
+8,<=30,Average,No,Fair,No
+9,<=30,Poor,Yes,Fair,Yes
+10,>40,Average,Yes,Fair,Yes
+11,<=30,Average,Yes,Excellent,Yes
+12,31 to 40,Average,No,Excellent,Yes
+13,31 to 40,High,Yes,Fair,Yes
+14,>40,Average,No,Excellent,No
