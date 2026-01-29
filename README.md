@@ -1,6 +1,7 @@
 # Data-Mining-Coursework-Repository
 This repository includes all datasets, notebooks, and implementations created for the Data Mining course assignment. The work explores a range of supervised and unsupervised machine learning methods, such as classification, regression, clustering, and anomaly detection, implemented using Python within Jupyter Notebook environments.
 Repository Structure
+
 data_mining_assignment/
 │
 ├── datasets/                        # Datasets used for experiments and analysis
@@ -20,6 +21,7 @@ data_mining_assignment/
 ├── naive_bayes.ipynb                # Naïve Bayes classification
 ├── noise_outlier.ipynb              # Noise identification and outlier detection
 └── polynomial_regression.ipynb      # Polynomial regression model
+
 
 Project Summary
 
